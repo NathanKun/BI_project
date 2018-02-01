@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_CnOWEQd3EeiXLcPq7bPlNQ" id="_CnOWEAd3EeiXLcPq7bPlNQ" label="commerciaux" creationDate="2018-02-01T18:40:49.265+0100" modificationDate="2018-02-01T18:58:49.377+0100" version="0.1" statusCode="" item="_CnOWEwd3EeiXLcPq7bPlNQ" displayName="commerciaux">
+    <author href="../talend.project#_Gn65QAdUEeirbOrwYrXu9A"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_CnOWEgd3EeiXLcPq7bPlNQ" path="" locked="true" lockDate="2018-02-01T18:40:49.421+0100">
+    <locker href="../talend.project#_Gn65QAdUEeirbOrwYrXu9A"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_CnOWEwd3EeiXLcPq7bPlNQ" property="_CnOWEQd3EeiXLcPq7bPlNQ" state="_CnOWEgd3EeiXLcPq7bPlNQ">
+    <process href="commerciaux_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
